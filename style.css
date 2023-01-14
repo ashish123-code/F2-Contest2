@@ -1,0 +1,33 @@
+.inline{
+    display: flex;
+   
+    justify-content: space-between;
+    
+
+}
+ div input{
+   
+    
+    width: 431px;
+    height: 56px;
+    border: 1px solid #000000;
+border-radius: 5px;
+ }
+ div label{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color:  black;
+
+ }
+ input[type="button"]{
+    width: 226px;
+height: 58px;
+left: 58px;
+margin-top: 50px;
+
+ }
